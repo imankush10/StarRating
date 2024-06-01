@@ -30,6 +30,7 @@ import StarRating from "./StarRating";
 
 const App = () => {
   return (
+    <StarRating/> // All the props are optional
     <StarRating
       maxRating={5}
       defaultRating={3}
