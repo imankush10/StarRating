@@ -68,4 +68,4 @@ This component is open source and available under the MIT License.
 #### Building for source
 
 For production release:
-Feel free to contribute or report issues on the [GitHub](https://github.com/imankush10/star-rating-component) repository.
+Feel free to contribute or report issues on the [GitHub](https://github.com/imankush10/StarRating/) repository.
